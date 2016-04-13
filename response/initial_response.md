@@ -34,3 +34,8 @@ If you receive report by phone:
 - otherwise:
   - ask them about their preferred way you could contact them (e-mail, phone number, other),
   - inform them that Code of Conduct team will handle the report and will get back to them as soon as possible.
+
+
+#### Reports by Twitter
+
+Follow the steps from phone/e-mail sections. Ideally meet and ask for the better way to communicate with them.
