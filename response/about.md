@@ -1,15 +1,24 @@
-# Response to reports
+# Responding to reports
 
-First page should be just point by point process with one sentence explanation and linking to specific subsections:
-1. Initial response to report
-2. CoC team meeting
-3. Writing up an internal report
-4. Making a decision of possible sanctions, deciding who is going to "do the talk"  
-  4.1. What are the possible sanctions?
-5. Having "the talk"  
-  5.1. Guidance on giving warnings
-6. CoC team meeting & followup emails to everyone involved
-7. Communication (with and outside involved people). Whom to inform? In what way?
-8. Both internal, and to the DSF
-9. During & post-event transparency
-10. Things to avoid, what not to do
+Ok, so you received a Code of Conduct incident response. Now is your time to take action.
+
+You should aim to take action as soon as reasonably possible. 
+
+Ideally, the points 1-7 from the process should be completed within the next half-day if incident happens during an event. After the event you may need more time to gather sufficient decision makers, but responding within the same week or sooner is good.
+
+## Response Process
+
+The response process consist of 7 steps, as described below. Click on each title to read on the details. 
+
+1. [Initial response to a report](response/initial_response.md)
+2. [CoC Reponse Team meeting](response/team_meeting_1.md)
+3. [Write up an initial report](response/intial_writeup.md)
+4. [Decision & sanctions](response/decision.md)
+5. [Have "the talk"](response/talk.md)
+6. [Team meeting & followups](response/team_meeting_2.md)
+7. [Communication & reporting](response/communication.md)
+
+## Additional advice
+
+* [Transparency](response/transparency.md)
+* [Things to avoid](response/avoid.md)
