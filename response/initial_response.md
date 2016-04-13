@@ -19,3 +19,10 @@ Most harassment complaints aren't of this nature, but if someone reports that an
 - make sure to let them know you will inform them about the actions/progress of the Code of Conduct team.
 - make sure they know that their personal information will not be disclosed to anyone except Code of Conduct team and DSF Code of Conduct committee
   - stress out that their identity will not be revealed (unless it is necessary in handling the issue) to the offender.
+
+#### Reports by e-mail
+
+If you received report via e-mail, try to:
+- you should let them know that you received the report as soons as possible;
+- if the person is at your event ask if it's possible to meet with them;
+- inform them that Code of Conduct team will handle the report and will get back to them once you decide on actions that should be taken.
