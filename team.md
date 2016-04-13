@@ -1,7 +1,8 @@
 # Response Team
 
 Even the best Code of Conduct won't make any difference if it is not 
-handled well. Having Code of Conduct but not being able to enforce it give false feeling of safety. 
+handled well.  
+Having Code of Conduct but not being able to enforce it give false feeling of safety. 
 Wrong CoC handling might expose sensitive information about involved sides, 
 result in Internet flame wars, people loosing jobs and making people not 
 wanting to report anything in a future. 
@@ -14,7 +15,7 @@ aware what kind of challenges they might face during CoC duty.
 It's important to have the right size of the Response Team. Too big will 
 make decision making too slow and ineffective and there is a chance of 
 diffusion of responsibility. Too small will put too much 
-stress, pressure and responsibility on one or two people's shoulders. 
+stress, pressure and responsiblity on one or two people's shoulders. 
 
 So far the best Response Team that worked for us was consisting of 4 people: 
 two women and two men.
