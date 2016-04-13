@@ -55,7 +55,7 @@ will have no problem to identify them if needed;
 considered a Code of Conduct violation;
 * link to this document to give people an idea about your process.
 
-## Posters
+### Posters
 
 Posters informing about your Code of Conduct will increase visibility and 
 remind attendees about it. We advice to hang them in the event venue
@@ -71,12 +71,3 @@ The poster should include:
 
 You can find & copy our example posters: [Part 1](https://drive.google.com/open?id=0B_sMcBckSgWqQktndmFXMzBJcVE), [Part 2](https://drive.google.com/open?id=0B_sMcBckSgWqbjN0SmJNVGpIU0U).
 
-## Links to Your Code of Conduct
-
-There are a number of places where you should point people out to your Code of 
-Conduct page:
-
-* link it from header & footer on your website
-* link to CoC when registering a ticket for your event
-* link in e-mail communication with attendees
-* tweet the link at the beginning of the event using your official Twitter account
