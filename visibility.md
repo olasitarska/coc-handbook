@@ -8,12 +8,12 @@ some people from attending the event.
 
 Here is a list of things that help to increase visibility of the Code of Conduct:
 
-* reading and agreeing to your Code of Conduct should be obligatory when registering ticket for the event
-* make sure to link your CoC in both header and footer on your website
-* prepare and print posters about CoC
+* reading and agreeing to your Code of Conduct should be obligatory when registering ticket for the event;
+* make sure to link your CoC in both header and footer on your website;
+* prepare and print posters about CoC;
 * remind about Code of Conduct during welcome talks, at the registration desk 
-and on other possible occasions
-* remind about the Code of Conduct in e-mail communication with attendees
+and on other possible occasions;
+* remind about the Code of Conduct in e-mail communication with attendees.
 
 ## Website
 
@@ -22,7 +22,7 @@ It is important to link to it from the homepage, ideally both in header and
 footer. 
 
 Use consistent naming, ideally always use "Code of Conduct" or "CoC" names, 
-so people will be able to find the link immediatelly. 
+so people will be able to find the link immediately. 
 
 ### Code of Conduct Page
 
@@ -36,7 +36,7 @@ The page should contain following information:
 * short and long version of your Code of Conduct. See example [here](https://2016.djangocon.eu/coc/);
 * how CoC violation could be reported: 
 
-    * e-mail address that is entriely dedicated to CoC,
+    * e-mail address that is entirely dedicated to CoC,
     * phone numbers: one to female and one to male member of staff,
     * emergency numbers (Fire, Medical, Police numbers with country code);
 
