@@ -8,9 +8,14 @@ Most harassment complaints aren't of this nature, but if someone reports that an
 - if everyone is presently physically safe, involve law enforcement or security only at a victim's request. In many cases, reporting harassment to law enforcement is very unpleasant and may result in further harassment. A staff member can provide the list of emergency contacts and say something like "if you want any help reporting this incident, please let us know" and leave it at that.
 
 ### All other reports
-- offer the victim a private place to sit
-- ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person)
-- ask them "how can I help?"
-- re-assure them that the matter will be handled by the conference staff.
-  - Simply say "Thanks, this sounds like a breach of our anti-harassment policy. I am going to convene a meeting of a small group of people and figure out what our response will be."
-  - Or, if the incident was of a very private matter, say: “If you're OK with it I am going to convene a meeting of a small group of people and figure out what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead.
+- offer the victim a private place to sit;
+- ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person);
+- let them know that the Code of Conduct team will handle the matter;
+- ask them if there is anything you could help with and offer assistance;
+- make sure to offer emotional help;
+- thank them for reporting: 
+  - "Thank you for reporting, we will take care of it. I am going to convene a meeting with Code of Conduct team and decide on actions we will take."
+  - Or, if the incident was of a very private matter, say: “If you're OK with it I am going to convene a meeting of Code of Conduct team and decide what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead; 
+- make sure to let them know you will inform them about the actions/progress of the Code of Conduct team.
+- make sure they know that their personal information will not be disclosed to anyone except Code of Conduct team and DSF Code of Conduct committee
+  - stress out that their identity will not be revealed (unless it is necessary in handling the issue) to the offender.
