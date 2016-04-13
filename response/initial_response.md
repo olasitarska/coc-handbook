@@ -39,3 +39,5 @@ If you receive report by phone:
 #### Reports by Twitter
 
 Follow the steps from phone/e-mail sections. Ideally meet and ask for the better way to communicate with them.
+
+If the report is in public tweet - make sure to tweet: "We will contact you shortly" and ask about details in private message. If it's possible it would be good to ask them to remove Tweet, to avoid them being exposed to random people from Twitter and public shaming of the offender. 
