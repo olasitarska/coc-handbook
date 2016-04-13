@@ -23,6 +23,14 @@ Most harassment complaints aren't of this nature, but if someone reports that an
 #### Reports by e-mail
 
 If you received report via e-mail, try to:
-- you should let them know that you received the report as soons as possible;
+- you should let them know that you received the report as soon as possible;
 - if the person is at your event ask if it's possible to meet with them;
 - inform them that Code of Conduct team will handle the report and will get back to them once you decide on actions that should be taken.
+
+#### Reports by phone
+
+If you receive report by phone:
+- if the person is at your event ask if it's possible to meet with them speak with them;
+- otherwise:
+  - ask them about their preferred way you could contact them (e-mail, phone number, other),
+  - inform them that Code of Conduct team will handle the report and will get back to them as soon as possible.
