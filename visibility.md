@@ -1,7 +1,7 @@
 # Code of Conduct visibility
 
 One of the most important things to do before and during the event is 
-making sure that everyone knows about existance of Code of Conduct and 
+making sure that everyone knows about existence of Code of Conduct and 
 have no problems to find details about it. Failing to communicate about it 
 might cause unnecessary discussions in case of problems or might discourage 
 some people from attending the event.
@@ -24,7 +24,7 @@ footer.
 Use consistent naming, ideally always use "Code of Conduct" or "CoC" names, 
 so people will be able to find the link immediately. 
 
-### Code of Conduct page
+### Code of Conduct Page
 
 A Code of Conduct page is one of the primary sources of information about it for
 all of your attendees. It is also a place where you link to whenever you 
