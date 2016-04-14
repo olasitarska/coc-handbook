@@ -1,4 +1,4 @@
-# Code of Conduct Incident Procedure
+# Code of Conduct Handbook
 
 ## Read the document
 
