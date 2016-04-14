@@ -2,7 +2,7 @@
 
 ## Read the document
 
-This is just a source code of the guidance. You should go here to read it: https://olasitarska.gitbooks.io/coc-handbook/content/
+This is just a source code of the guidance. You should go here to read it: http://coc-handbook.com/
 
 ## About
 
