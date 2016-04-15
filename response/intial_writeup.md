@@ -51,3 +51,50 @@ does the offender feels sorry? Or do they cause further problems?
 * if the offender is causing problems during the Code of Conduct process
 make sure to document it too. Copy e-mails or make screenshots whenever applicable.
 
+## Example report
+
+**Report:** Verbal report made by *Person A* and received by *Response Team Member A*
+ on 29th December 2000, 9am in the conference venue.
+**When:** 28th December 2000, 10.30pm
+**Where:** Conference party at Django* conference
+
+**What happened:**
+*Person A* overheard one of our attendees (later identified as *Person B*) speaking
+ to his friends and saying something along the lines of "*Here is a quote*". The
+ reporter went to this person and quietly asked them to tone it down.
+ They got very confrontational (not physically) and insisted that it wasn't actually
+ inappropriate. It was reminded him that our CoC applies but that didn't really stop them.
+
+The conference staff decided to talk to this person the next day to try to achieve
+common understanding of expected behaviour during the conference, or give a warning
+if understanding is not achieved.
+
+So on *Next day*, *Response Team Member A and B* took him aside to an empty room
+and went over what happened, explaining our stance on the issue and the reason why we don't accept it.
+The harasser immediately apologized on their own (without any prompt from us).
+They said that after thinking on it, they realized fully how their behavior was
+ wrong and they thanked us for stepping in. The whole meeting lasted about 10 minutes,
+  was very calm and overall successful.
+
+The conference staff decided not to take any further action and consider the case closed.
+
+**Actions taken:**
+- Response Team decided to talk to *Person B*, and during this meeting a common
+understanding between Response Team and *Person B* was achieved.
+- Issue will be included in conference's Transparency report after the event.
+- This report will be sent to Django Software Foundation Code of Conduct in case
+similar event occur in the future.
+
+## Template report
+
+**Report**: How report was made? Who made the report? When report was made?
+Where report was made? Who received the report?
+**When:** When the issue in subject took place?
+**Where:** Where the issue in subject took place?
+
+**What happened:**
+Detailed and neutral description of events in subject: starting when the
+incident took place, until final resolution of the incident.
+
+**Actions taken:**
+Summary of actions taken by Response Team.
