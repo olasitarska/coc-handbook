@@ -8,8 +8,8 @@
 * [Response to reports](response/about.md)
    * [Initial response](response/initial_response.md)
    * [Team meeting](response/team_meeting_1.md)
-   * [Write up initial report](response/intial_writeup.md)
-   * [Decision & sanctions](response/decision.md)
+      * [Write up initial report](response/intial_writeup.md)
+      * [Decision & sanctions](response/decision.md)
    * ["The talk"](response/talk.md)
    * [Team meeting & followups](response/team_meeting_2.md)
    * [Communication & reporting](response/communication.md)
@@ -23,4 +23,3 @@
    * [Internal reporting](templates/reporting.md)
    * [Incidents tracking](templates/spreadsheet.md)
 * [Acknowledgements](thanks.md)
-
