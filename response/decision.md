@@ -1,13 +1,38 @@
 # Decision & sanctions
 
+Most Code of Conduct issues you're going to deal with are minor, and the goal is
+to achieve common understanding with all involved parties. However, no matter
+how minor or major your incident is, you need a usually quick decision on what to do.
+
+In our process, we usually make assumptions about possible outcome before even
+going to meet the reported person. If the talk goes well, and they see their mistake, a
+ warning is usually enough. If a slide violated Code of Conduct, we will make sure
+ it's removed from published version of the talk, so on and so on.
+
+However, your decision may change if during the talk it will be made clear that
+offender indeed meant harm, or just "did not care". In this case, you should not
+make a decision on spot, but meet with your Response Team to decide a new sanction
+after "the talk"
+
+The possible sanctions might be different if the offender feels sorry for their actions
+or if they are defensive and angry about the report. It may also depend on whether their
+actions were deliberate or they intended no harm.
+
+Most Code of Conduct incidents reach a common understanding, and giving people a warning
+to allow them to correct their actions in the future is the key.
 
 ## Possible sanctions
-Your guiding principle should be the safety of your community members from harassment and you should evaluate sanctions in light of whether they provide the safety needed. You and your event are the only people who can judge appropriate sanctions in your community based on the nature of the incident and the responses of the people involved, but some possibilities are:
+
+Your guiding principle should be the safety of your community members from harassment
+and you should evaluate sanctions in light of whether they provide the safety needed.
+You and your event are the only people who can judge appropriate sanctions in your
+community based on the nature of the incident and the responses of the people involved,
+but some possibilities are:
 
 - warning the harasser to cease their behaviour and that any further reports will result in sanctions
 - requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event
 - ending a talk that violates the policy early
-- not publishing the video or slides of a talk that violated the policy
+- not publishing the video or particular slide of a talk that violated the policy
 - not allowing a speaker who violated the policy to give (further) talks at this conference events
 - immediately ending any event volunteer responsibilities and privileges the harasser holds
 - requiring that the harasser not volunteer for future events your organization runs (either indefinitely or for a certain time period)
