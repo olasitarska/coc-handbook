@@ -47,10 +47,7 @@ does the offender feels sorry? Or do they cause further problems?
     - document if you send any e-mails or ask any third parties for input and why,
 * describe any decisions about further actions:
     - does the situation will be reported to anyone?
-    - does the conference organizers or Code of Conduct team need to do anything? Example actions we 
-had to take are: removing slide(s) or whole talk from later publications/recordings, 
-asking to remoe inappropriate tweets, reporting to DSF, etc..
-* if the offender is causing problems during the Code of Conduct process 
-make sure to document it, too. Copy e-mails, make tweet's screeenshot
-when applicable.
+    - does the conference organizers or Code of Conduct team need to do anything?
+* if the offender is causing problems during the Code of Conduct process
+make sure to document it too. Copy e-mails or make screenshots whenever applicable.
 
