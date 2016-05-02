@@ -14,7 +14,7 @@ Goals of the meeting:
 	Member who received the report should fill everyone in, and if the report
 	has been written down, everyone should also read it. If the situation is
 	time-sensitive or someone is in physical danger, you need to stop now and take
-	immediate action: keep people safe. If the issue is not time-sensitive, make sure
+	immediate action: keep people safe first. If the issue is not time-sensitive, make sure
 	the reporter already knows that you're working on resolving it. Only then carry
 	on.
 - **Document and write an internal report**
@@ -24,7 +24,8 @@ Goals of the meeting:
 	Refer to your Code of Conduct text if needed. If you've got trouble seeing it,
 	it might be a good idea to meet with the reporter again and politely ask them
 	to provide more context. Do not try to invalidate their feelings though:
-	*everyone* has the right to feel offended.
+	*everyone* has the right to feel offended. You should not express your judgment or opinions 
+	about the event during this talk.
 - **Decide if you need to speak with involved sides**
 	This is usually a good idea. If you haven't met with your reporter yet and you
 	feel like more context is required, do this first. Speaking with people with the
