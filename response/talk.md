@@ -60,8 +60,16 @@ their behaviour, and inform them that you're going to get in touch with them to
 communicate your final decision about sanctions.
 
 Do not get involved into the argument: repeat and make sure it's clear for them
-what is unacceptable behaviour, but to not try to get involved into a long discussion. 
+what is unacceptable behaviour, but to not try to get involved into a long discussion.
 
 Now it's a time to re-evaluate the decision, so we recommend you to go back to the
 second step of "Response" chapter: Team meeting, and discuss with your team if you
 want to amend the decision due to lack of common understanding.
+
+## What's next?
+
+After the talk, it's important to meet back with your Response Team, tell them
+how the conversation well, and make sure you're all on the same page that the
+conversation had a successful outcome.
+
+Then, it's time to [wrap up the incident]().
