@@ -11,8 +11,7 @@
    * [Write up initial report](response/intial_writeup.md)
    * [Decision & sanctions](response/decision.md)
    * ["The talk"](response/talk.md)
-   * [Team meeting & followups](response/team_meeting_2.md)
-   * [Communication & reporting](response/communication.md)
+   * [Incident wrap up](response/wrapup.md)
    * [Transparency](response/transparency.md)
    * [Things to avoid](response/avoid.md)
 * [Data retention](data_retention.md)
@@ -23,4 +22,3 @@
    * [Internal reporting](templates/reporting.md)
    * [Incidents tracking](templates/spreadsheet.md)
 * [Acknowledgements](thanks.md)
-
