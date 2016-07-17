@@ -12,7 +12,7 @@ The response process consist of 7 steps, as described below. Click on each title
 
 1. [Initial response to a report](response/initial_response.md)
 2. [CoC Reponse Team meeting](response/team_meeting_1.md)
-3. [Write up an initial report](response/intial_writeup.md)
+3. [Write up an initial report](response/initial_writeup.md)
 4. [Decision & sanctions](response/decision.md)
 5. [Have "the talk"](response/talk.md)
 6. [Team meeting & followups](response/team_meeting_2.md)
