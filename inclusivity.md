@@ -20,7 +20,6 @@ possible. However, the more you'll invest in these, the more fiendly and welcomi
 will be.
 
 * Make sure that your venue is accessible and is appropriate for people with movement impariments.
-Consult this [list](find-some-nice-checkilist-to-link-to) to learn more about things you should consider.
 
 * Have a quiet room available for attendees. In this room people are not supposed to talk and
 this is the space reserved for those who need an alone-time. By default people who are
@@ -123,7 +122,7 @@ during the event, make sure to answer questions from attendees.
 
 
 For more information about things that will help you to make your event more
-inclusive, you should check amazing ["Not that obvious conference checklist"](...) by 
+inclusive, you should check amazing [The Less Obvious Conference Checklist](https://github.com/erikr/lessobviouschecklist) by 
 Erik Romijn.
 
 
