@@ -20,8 +20,7 @@ This work is by:
 
  - Ola Sitarska
 
-This work incorporates and is derived from Creative Commons licenced work by
-the following authors:
+This work incorporates and is derived from Creative Commons licenced work by:
 
  - [Mary Gardiner](https://mary.gardiner.id.au/) (User:Thayvian), User:Azurelunatic, and other editors of the Geek Feminism wiki listed at [Responding to reports revision history](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports?action=history) and [Duty officer revision history](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Duty_officer?action=history)
  - authors of the [PyCon Staff Procedure for Handling Harassment](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
