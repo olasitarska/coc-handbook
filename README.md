@@ -18,6 +18,7 @@ Feel free to use it to learn about our process, or to implement similar process 
 
 This work is by:
 
+ - Ola Sendecka
  - Ola Sitarska
 
 This work incorporates and is derived from Creative Commons licenced work by:
