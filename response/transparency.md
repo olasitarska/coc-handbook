@@ -19,7 +19,7 @@ This helps your community understand the reality of the policy: how and when it 
 Inform the attendees. If the event has been dealt with at the conference, it may be appropriate for the conference to make a short announcement at the next break, something like: *"<thing> happened. This was a violation of our policy. We apologise for this. We have taken <action>. This is a good time for all attendees to review our policy at <location>. If anyone would like to discuss this further they can <contact us somehow>."* And then move on with the program.
 
 ### After the event
-Publish a Code of Conduct transparency report, summarising all actions and incidents that took place during the event. [See a good example here](http://blog.djangounderthehood.com/post/132867126995/coc-transparency-report).
+Publish a Code of Conduct transparency report, summarising all actions and incidents that took place during the event. [See a good example here](http://duth-blog.tumblr.com/post/132867126995/coc-transparency-report).
 
 Again, try not to go into much detail, but explain the nature of the incidents and actions taken by the conference staff.
 Post-event reporting tasks
