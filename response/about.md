@@ -10,15 +10,15 @@ Ideally, the points 1-7 from the process should be completed within the next hal
 
 The response process consist of 7 steps, as described below. Click on each title to read on the details. 
 
-1. [Initial response to a report](response/initial_response.md)
-2. [CoC Reponse Team meeting](response/team_meeting_1.md)
-3. [Write up an initial report](response/intial_writeup.md)
-4. [Decision & sanctions](response/decision.md)
-5. [Have "the talk"](response/talk.md)
-6. [Team meeting & followups](response/team_meeting_2.md)
-7. [Communication & reporting](response/communication.md)
+1. [Initial response to a report](initial_response.md)
+2. [CoC Reponse Team meeting](team_meeting_1.md)
+3. [Write up an initial report](intial_writeup.md)
+4. [Decision & sanctions](decision.md)
+5. [Have "the talk"](talk.md)
+6. [Team meeting & followups](team_meeting_2.md)
+7. [Communication & reporting](communication.md)
 
 ## Additional advice
 
-* [Transparency](response/transparency.md)
-* [Things to avoid](response/avoid.md)
+* [Transparency](transparency.md)
+* [Things to avoid](avoid.md)
